@@ -1,5 +1,5 @@
 # Critical-Thinking-Project-Networking-
-## 1. Introduction
+## Introduction
 
 This document presents a subnetting design for an organization with six departments. The goal is to efficiently allocate IP addresses, ensure logical separation, and allow for future growth of at least 50%.
 
